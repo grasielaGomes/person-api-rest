@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Neste projeto o Desenvolvedor de Software Senior Rodrigo Peleias nos mostrou passo a passo a criação de uma API Rest no Java, utilizando o Spring Boot.
+Neste projeto o Desenvolvedor de Software Senior [Rodrigo Peleias](https://www.linkedin.com/in/rodrigopeleias/) nos mostrou passo a passo a criação de uma API Rest no Java, utilizando o Spring Boot.
 
 
 # Tópicos abordados
